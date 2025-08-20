@@ -1,7 +1,0 @@
-﻿Date	Time	Severity	PID	TID	Function	Message
-20-08-2025	06:37:18.832	 INFO	 91408	103320	DllMain	"DLL_PROCESS_ATTACH Fri Sep 20 02:59:20 2024 11.3.2440.1"
-20-08-2025	06:37:18.834	 INFO	 91408	 99032	LateInitialization	"Intialization..."
-20-08-2025	06:37:18.834	 INFO	 91408	 99032	LateInitialization	"Exe = C:\Users\msama\AppData\Local\Programs\Git\usr\bin\bash.exe"
-20-08-2025	06:37:18.835	 INFO	 91408	 99032	LateInitialization	"IsExplorer = 0"
-20-08-2025	06:37:18.835	 INFO	 91408	 99032	Edlp::Path::InitializeExcludedPathPatterns	"Windows drive = C:"
-20-08-2025	06:37:18.836	 INFO	 91408	 99032	LateInitialization	"Intialization finished"
