@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\rolebasedaccesscontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\rolebasedaccesscontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\context\\rolebasedaccesscontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\context\\rolebasedaccesscontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|d:\\selflearnings\\bhavna corp-assignment\\rolebasedaccesscontrol\\rolebasedaccesscontrol\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0905D338-59B9-46F0-98C7-7E3348F6B63A}|RoleBasedAccessControl\\RoleBasedAccessControl.csproj|solutionrelative:rolebasedaccesscontrol\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleBasedAccessControl.csproj",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\RoleBasedAccessControl.csproj",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\RoleBasedAccessControl.csproj",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\RoleBasedAccessControl.csproj",
+              "RelativeToolTip": "RoleBasedAccessControl\\RoleBasedAccessControl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T03:39:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\Employee.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\Employee.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:55:11.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:55:25.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:38:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\Role.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\Role.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:55:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:36:16.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\appsettings.json",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\appsettings.json",
+              "RelativeToolTip": "RoleBasedAccessControl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T10:34:54.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Program.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Program.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:32:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\UserRole.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\UserRole.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:55:50.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserRole.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\AddUserRole.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\AddUserRole.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\AddUserRole.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\AddUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:54:59.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Models\\User.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Models\\User.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:56:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Services\\AuthService.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Services\\AuthService.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Services\\AuthService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAASwF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:03:56.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:08:13.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleBasedAccessControlContext.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Context\\RoleBasedAccessControlContext.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Context\\RoleBasedAccessControlContext.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Context\\RoleBasedAccessControlContext.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Context\\RoleBasedAccessControlContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:25:33.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:07:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "RoleBasedAccessControl\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\SelfLearnings\\Bhavna Corp-Assignment\\RoleBasedAccessControl\\RoleBasedAccessControl\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "RoleBasedAccessControl\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:04:09.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

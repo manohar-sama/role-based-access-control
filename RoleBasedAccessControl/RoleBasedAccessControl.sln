@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoleBasedAccessControl", "RoleBasedAccessControl\RoleBasedAccessControl.csproj", "{0905D338-59B9-46F0-98C7-7E3348F6B63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0905D338-59B9-46F0-98C7-7E3348F6B63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0905D338-59B9-46F0-98C7-7E3348F6B63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0905D338-59B9-46F0-98C7-7E3348F6B63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0905D338-59B9-46F0-98C7-7E3348F6B63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87CEF490-118E-471F-A6B5-1FCB9A6CBF7C}
+	EndGlobalSection
+EndGlobal
